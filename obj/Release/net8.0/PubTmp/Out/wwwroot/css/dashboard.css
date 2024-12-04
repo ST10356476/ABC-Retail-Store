@@ -1,0 +1,87 @@
+﻿/* General Body Styling */
+body {
+    background: linear-gradient(135deg, #1c1f26, #283a45);
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Glowing Text */
+.glowing-text {
+    text-align: center;
+    font-size: 3rem;
+    color: #00ffc6;
+    text-shadow: 0 0 10px #00ffc6, 0 0 20px #00ffc6, 0 0 30px #00ffc6;
+    margin-bottom: 20px;
+}
+
+/* Glowing Button */
+.glowing-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #00ffc6;
+    border: 2px solid #00ffc6;
+    background: transparent;
+    text-decoration: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 0 10px #00ffc6, 0 0 20px #00ffc6, 0 0 30px #00ffc6;
+}
+
+    .glowing-btn:hover {
+        background: #00ffc6;
+        color: #1c1f26;
+    }
+
+/* Table Styling */
+.table-container {
+    overflow-x: auto;
+}
+
+.glowing-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+    .glowing-table th, .glowing-table td {
+        padding:5px;
+        text-align: left;
+        color: #ffffff;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .glowing-table th {
+        background: rgba(0, 0, 0, 0.8);
+        font-weight: 600;
+        color: #00ffc6;
+    }
+
+    .glowing-table tbody tr:hover {
+        background: rgba(0, 255, 198, 0.2);
+        cursor: pointer;
+    }
+
+    .glowing-table tbody tr td .btn {
+        margin-right: 10px;
+        display: inline-block;
+    }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .glowing-text {
+        font-size: 2rem;
+    }
+
+    .glowing-table th, .glowing-table td {
+        padding: 10px;
+    }
+
+    .glowing-btn {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+    }
+}

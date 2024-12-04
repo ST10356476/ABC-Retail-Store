@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ABC_Retail</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ABC_Retail.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">ABC Retail</div>
+        <ul>
+            <li><a href="/Home/Index">Home</a></li>
+            <li><a href="/CustomerProfiles/Index">Dashboard</a></li>
+            <li><a href="/ProductInfo/Index">Products</a></li>
+            <li><a href="/OrderProcessing/ProcessOrder">Orders</a></li>
+            <li><a href="/Contracts/UploadContract">Contract Management</a></li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <div class="mouse-tracker"></div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        document.getElementById('sidebarToggle').addEventListener('click', function () {
+            document.getElementById('sidebar').classList.toggle('active');
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            const tracker = document.querySelector('.mouse-tracker');
+            tracker.style.left = `${e.clientX}px`;
+            tracker.style.top = `${e.clientY}px`;
+        });
+
+        document.addEventListener('mouseover', () => {
+            document.querySelector('.mouse-tracker').classList.add('hover');
+        });
+
+        document.addEventListener('mouseout', () => {
+            document.querySelector('.mouse-tracker').classList.remove('hover');
+        });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

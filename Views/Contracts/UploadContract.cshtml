@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Upload Contract";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/contract.css" asp-append-version="true" />
+</head>
+
+<h2 class="page-title">Upload Contract</h2>
+
+<p class="info-text">
+    Please use this form to upload a new contract. Ensure that the contract file is in a valid format (e.g., PDF, DOCX).
+    The file should be properly named for easy identification. After uploading, the contract will be securely stored, and
+    notifications will be sent to the relevant stakeholders.
+</p>
+
+<form asp-action="UploadContract" method="post" enctype="multipart/form-data" class="upload-form">
+    <div class="form-group">
+        <label for="file" class="control-label">Select Contract File</label>
+        <input type="file" id="file" name="file" class="form-control-file" accept=".pdf, .docx" required />
+    </div>
+
+    <div class="form-group">
+        <label for="contractName" class="control-label">Contract Name</label>
+        <input type="text" id="contractName" name="contractName" class="form-control" placeholder="Enter Contract Name" required />
+    </div>
+
+    <div class="form-group">
+        <label for="contractDescription" class="control-label">Contract Description</label>
+        <textarea id="contractDescription" name="contractDescription" class="form-control" rows="4" placeholder="Provide a brief description of the contract" required></textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="effectiveDate" class="control-label">Effective Date</label>
+        <input type="date" id="effectiveDate" name="effectiveDate" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="expiryDate" class="control-label">Expiry Date</label>
+        <input type="date" id="expiryDate" name="expiryDate" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary submit-btn">Upload Contract</button>
+</form>
+
+<div class="note">
+    <p>Note: Please ensure that the contract details are accurate before submission. Once uploaded, the contract will be reviewed and processed. You can track the status of the contract in the Contract Management section.</p>
+</div>
+
+<div>
+    <a href="/Contracts/Index" class="back-link">Back to Contract Management</a>
+</div>

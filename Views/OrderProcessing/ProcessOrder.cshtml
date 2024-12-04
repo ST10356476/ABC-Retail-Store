@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Process Order";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/order.css" asp-append-version="true" />
+</head>
+
+<h2 class="glowing-text">Process Order</h2>
+
+<p class="info-text">
+    Enter the Order ID to process the order. Ensure that the Order ID is correct before submitting.
+    Once processed, the order status will be updated in the system, and relevant notifications will be sent out.
+</p>
+
+<form asp-action="ProcessOrder" method="post" class="process-order-form">
+    <div class="form-group">
+        <label for="orderId" class="control-label">Order ID</label>
+        <input type="text" id="orderId" name="orderId" class="form-control glowing-input" placeholder="Enter Order ID" required />
+    </div>
+    <button type="submit" class="btn glowing-btn">Process Order</button>
+</form>
+
+<div class="order-status">
+    <h4>Order Status Information</h4>
+    <p>
+        After processing, you can check the order status in the Order Management section.
+        Make sure to review the details carefully, as this action cannot be undone.
+    </p>
+    <a href="/OrderManagement/Index" class="btn glowing-btn-secondary">Go to Order Management</a>
+</div>
+
+<div>
+    <a href="/Home/Index" class="back-link">Back to Dashboard</a>
+</div>

@@ -1,0 +1,158 @@
+﻿@model ABC_Retail.Models.CustomerProfile
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<head>
+    <style>
+        /* General Body Styling */
+        body {
+            background: linear-gradient(135deg, #1c1f26, #283a45);
+            color: #ffffff;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        /* Glowing Text */
+        .glowing-text {
+            text-align: center;
+            font-size: 2.5rem;
+            color: #00ffc6;
+            text-shadow: 0 0 10px #00ffc6, 0 0 20px #00ffc6, 0 0 30px #00ffc6;
+            margin-bottom: 20px;
+        }
+
+        .subheading {
+            text-align: center;
+            color: #00ffc6;
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        /* Form Container */
+        .form-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+        }
+
+        /* Glowing Labels and Inputs */
+        .glowing-label {
+            color: #00ffc6;
+            font-weight: 500;
+        }
+
+        .glowing-input {
+            background-color: transparent;
+            border: 2px solid #00ffc6;
+            color: #ffffff;
+            border-radius: 5px;
+            padding: 10px;
+            transition: all 0.3s ease-in-out;
+            box-shadow: 0 0 10px rgba(0, 255, 198, 0.2);
+        }
+
+            .glowing-input:focus {
+                border-color: #00ffc6;
+                box-shadow: 0 0 20px rgba(0, 255, 198, 0.5);
+            }
+
+        /* Glowing Button */
+        .glowing-btn {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background: #00ffc6;
+            color: #1c1f26;
+            border: none;
+            border-radius: 5px;
+            text-transform: uppercase;
+            text-align: center;
+            font-weight: 600;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+            box-shadow: 0 0 15px #00ffc6;
+        }
+
+            .glowing-btn:hover {
+                background: #00e3b5;
+                box-shadow: 0 0 30px #00ffc6;
+            }
+
+        /* Back to List Link */
+        .back-link {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .glowing-link {
+            color: #00ffc6;
+            text-decoration: none;
+            transition: color 0.3s ease-in-out;
+        }
+
+            .glowing-link:hover {
+                color: #00e3b5;
+                text-shadow: 0 0 10px #00ffc6;
+            }
+    </style>
+</head>
+<head>
+    <link rel="stylesheet" href="~/css/createProfile.css" asp-append-version="true" />
+</head>
+
+<h1 class="glowing-text">Create Customer Profile</h1>
+
+<h4 class="subheading">Customer Profile Information</h4>
+<hr />
+<div class="form-container">
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="PartitionKey" class="control-label glowing-label"></label>
+            <input asp-for="PartitionKey" class="form-control glowing-input" />
+            <span asp-validation-for="PartitionKey" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="RowKey" class="control-label glowing-label"></label>
+            <input asp-for="RowKey" class="form-control glowing-input" />
+            <span asp-validation-for="RowKey" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Name" class="control-label glowing-label"></label>
+            <input asp-for="Name" class="form-control glowing-input" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label glowing-label"></label>
+            <input asp-for="Email" class="form-control glowing-input" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Address" class="control-label glowing-label"></label>
+            <input asp-for="Address" class="form-control glowing-input" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Timestamp" class="control-label glowing-label"></label>
+            <input asp-for="Timestamp" class="form-control glowing-input" />
+            <span asp-validation-for="Timestamp" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn glowing-btn" />
+        </div>
+    </form>
+</div>
+
+<div class="back-link">
+    <a asp-action="Index" class="glowing-link">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

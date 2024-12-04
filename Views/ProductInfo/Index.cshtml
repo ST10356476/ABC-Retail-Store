@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ABC_Retail.Models.ProductInfo>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/productindex.css" asp-append-version="true" />
+</head>
+
+<h1 class="glowing-text">Product List</h1>
+
+<p>
+    <a asp-action="Create" class="btn glowing-btn">Create New Product</a>
+</p>
+
+<table class="table animated-table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().RowKey)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().ProductName)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Category)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Price)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.RowKey</td>
+                <td>@item.ProductName</td>
+                <td>@item.Category</td>
+                <td>@item.Price</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.RowKey }, new { @class = "btn glowing-btn-secondary" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.RowKey }, new { @class = "btn glowing-btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

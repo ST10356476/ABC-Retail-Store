@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\customerprofiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\customerprofiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\customerprofiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\customerprofiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\customerprofiles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\customerprofiles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\customerprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\customerprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\abc_retail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:abc_retail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\munya\\source\\repos\\ABC_Retail\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\controllers\\customerprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:controllers\\customerprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\controllers\\orderprocessingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:controllers\\orderprocessingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\controllers\\productinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:controllers\\productinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\models\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:models\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\productinfo\\uploadimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\productinfo\\uploadimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\models\\orderprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:models\\orderprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\contracts\\uploadcontract.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\contracts\\uploadcontract.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\models\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:models\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\wwwroot\\css\\contract.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:wwwroot\\css\\contract.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\productinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\productinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\wwwroot\\css\\order.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:wwwroot\\css\\order.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\orderprocessing\\processorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\orderprocessing\\processorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\wwwroot\\css\\productindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:wwwroot\\css\\productindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.CSharp.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\munya\\Desktop\\Microsoft.CSharp.CurrentVersion||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\productinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\productinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\productinfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\productinfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\productinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\productinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|c:\\users\\munya\\source\\repos\\abc_retail\\views\\customerprofiles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF5AC1B4-B357-4327-84CF-79913F8D09D1}|ABC_Retail.csproj|solutionrelative:views\\customerprofiles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerProfiles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CustomerProfiles\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:58:27.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerProfiles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Create.cshtml",
+              "RelativeToolTip": "Views\\CustomerProfiles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:51:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwDsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:05:33.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:07:03.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductInfo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductInfo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:38:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "Controllers\\ContractsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:26:49.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\CustomerProfilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerProfilesController.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\CustomerProfilesController.cs",
+              "RelativeToolTip": "Controllers\\CustomerProfilesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwEIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:23:18.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ABC_Retail.csproj",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\ABC_Retail.csproj",
+              "RelativeDocumentMoniker": "ABC_Retail.csproj",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\ABC_Retail.csproj",
+              "RelativeToolTip": "ABC_Retail.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T17:14:41.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerProfiles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Index.cshtml",
+              "RelativeToolTip": "Views\\CustomerProfiles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:53:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerProfiles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CustomerProfiles\\Edit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:54:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\AzureStorageService.cs",
+              "RelativeToolTip": "AzureStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:15:00.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:05:28.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:58:23.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T17:07:06.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductInfo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Create.cshtml",
+              "RelativeToolTip": "Views\\ProductInfo\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:39:09.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductInfo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ProductInfo\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:39:42.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductInfo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ProductInfo\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:40:16.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T19:25:06.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\dashboard.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\dashboard.css",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\dashboard.css",
+              "RelativeToolTip": "wwwroot\\css\\dashboard.css",
+              "ViewState": "AQIAADwAAAAAAAAAAIBJwDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T19:28:03.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "productindex.css",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\productindex.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\productindex.css",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\productindex.css",
+              "RelativeToolTip": "wwwroot\\css\\productindex.css",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAwwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T19:33:50.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.CSharp.CurrentVersion",
+              "DocumentMoniker": "C:\\Users\\munya\\Desktop\\Microsoft.CSharp.CurrentVersion",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Microsoft.CSharp.CurrentVersion",
+              "ToolTip": "C:\\Users\\munya\\Desktop\\Microsoft.CSharp.CurrentVersion",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Microsoft.CSharp.CurrentVersion",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-11T19:54:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.CSharp.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.CSharp.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.CSharp.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.CSharp.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.CSharp.CurrentVersion.targets",
+              "ViewState": "AQIAACoBAAAAAAAAAAAswDwBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-11T19:56:13.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "wwwroot\\css\\home.css",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAwwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T20:38:09.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "order.css",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\order.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\order.css",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\order.css",
+              "RelativeToolTip": "wwwroot\\css\\order.css",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T09:33:25.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "contract.css",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\contract.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\contract.css",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\wwwroot\\css\\contract.css",
+              "RelativeToolTip": "wwwroot\\css\\contract.css",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T09:46:41.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBZwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:01:21.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerProfiles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\CustomerProfiles\\Details.cshtml",
+              "RelativeToolTip": "Views\\CustomerProfiles\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:58:37.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UploadImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\UploadImage.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductInfo\\UploadImage.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\ProductInfo\\UploadImage.cshtml",
+              "RelativeToolTip": "Views\\ProductInfo\\UploadImage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:35:20.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProcessOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\OrderProcessing\\ProcessOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderProcessing\\ProcessOrder.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\OrderProcessing\\ProcessOrder.cshtml",
+              "RelativeToolTip": "Views\\OrderProcessing\\ProcessOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:34:48.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UploadContract.cshtml",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\Contracts\\UploadContract.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contracts\\UploadContract.cshtml",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Views\\Contracts\\UploadContract.cshtml",
+              "RelativeToolTip": "Views\\Contracts\\UploadContract.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:33:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderProcessingController.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\OrderProcessingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderProcessingController.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\OrderProcessingController.cs",
+              "RelativeToolTip": "Controllers\\OrderProcessingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:26:11.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\ProductInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductInfoController.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Controllers\\ProductInfoController.cs",
+              "RelativeToolTip": "Controllers\\ProductInfoController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:25:07.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:22:35.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QueueMessage.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\QueueMessage.cs",
+              "RelativeDocumentMoniker": "Models\\QueueMessage.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\QueueMessage.cs",
+              "RelativeToolTip": "Models\\QueueMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:21:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\Contract.cs",
+              "RelativeToolTip": "Models\\Contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:20:51.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\OrderProcessing.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProcessing.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\OrderProcessing.cs",
+              "RelativeToolTip": "Models\\OrderProcessing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:20:34.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ProductInfo.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\ProductInfo.cs",
+              "RelativeToolTip": "Models\\ProductInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:20:05.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\munya\\source\\repos\\ABC_Retail\\Models\\CustomerProfile.cs",
+              "RelativeToolTip": "Models\\CustomerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:19:05.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

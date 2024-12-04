@@ -1,0 +1,125 @@
+﻿/* General Body Styling */
+body {
+    background: linear-gradient(135deg, #0d1117, #161b22);
+    color: #c9d1d9;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Glowing Text */
+.glowing-text {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #58a6ff;
+    text-shadow: 0 0 10px #58a6ff, 0 0 20px #58a6ff, 0 0 30px #58a6ff;
+    margin-bottom: 20px;
+}
+
+/* Information Text */
+.info-text {
+    font-size: 1.1rem;
+    color: #8b949e;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Glowing Input */
+.glowing-input {
+    background-color: transparent;
+    border: 2px solid #58a6ff;
+    padding: 10px;
+    font-size: 1rem;
+    color: #c9d1d9;
+    transition: border-color 0.3s ease-in-out;
+}
+
+    .glowing-input:focus {
+        border-color: #79c0ff;
+        outline: none;
+        box-shadow: 0 0 10px #58a6ff;
+    }
+
+/* Glowing Buttons */
+.glowing-btn, .glowing-btn-secondary {
+    padding: 10px 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.glowing-btn {
+    background-color: #58a6ff;
+    color: #0d1117;
+    box-shadow: 0 0 10px #58a6ff;
+}
+
+    .glowing-btn:hover {
+        background-color: #79c0ff;
+        box-shadow: 0 0 20px #58a6ff;
+    }
+
+.glowing-btn-secondary {
+    background-color: #21262d;
+    color: #58a6ff;
+    box-shadow: 0 0 10px #58a6ff;
+}
+
+    .glowing-btn-secondary:hover {
+        background-color: #30363d;
+        box-shadow: 0 0 20px #58a6ff;
+    }
+
+/* Order Status Section */
+.order-status {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+    .order-status h4 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    .order-status p {
+        font-size: 1rem;
+        color: #8b949e;
+    }
+
+/* Back Link */
+.back-link {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1rem;
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+    .back-link:hover {
+        color: #79c0ff;
+        text-decoration: underline;
+    }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .glowing-text {
+        font-size: 2rem;
+    }
+
+    .glowing-btn, .glowing-btn-secondary {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+    }
+
+    .info-text {
+        font-size: 1rem;
+    }
+}

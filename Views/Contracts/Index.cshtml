@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "ABC Retail Management Dashboard";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+</head>
+
+<body>
+    <div class="background"></div>
+    <div class="container">
+        <div class="text-center">
+            <h1 class="display-4 animated-text">Welcome to the ABC Retail Management Dashboard</h1>
+            <p class="lead animated-text">Your central hub for managing and analyzing retail operations.</p>
+        </div>
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <div class="card futuristic-card mb-3">
+                    <div class="card-header futuristic-header">Customer Overview</div>
+                    <div class="card-body">
+                        <h5 class="card-title futuristic-text">Current Customers</h5>
+                        <p class="card-text futuristic-text">Review Customer metrics, trends, and forecasts.</p>
+                        <a href="@Url.Action("Index", "CustomerProfiles")" class="btn futuristic-btn">View Details</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+         =       <div class="card futuristic-card mb-3">
+                    <div class="card-header futuristic-header">Inventory Management</div>
+                    <div class="card-body">
+                        <h5 class="card-title futuristic-text">Track Inventory Levels</h5>
+                        <p class="card-text futuristic-text">Monitor stock levels, manage orders, and view reports.</p>
+                        <a href="@Url.Action("Index", "ProductInfo")" class="btn futuristic-btn">View Details</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card futuristic-card mb-3">
+                    <div class="card-header futuristic-header">Contract Management</div>
+                    <div class="card-body">
+                        <h5 class="card-title futuristic-text">Assess Contributions</h5>
+                        <p class="card-text futuristic-text">Review performance metrics and feedback.</p>
+                        <a href="@Url.Action("UploadContract", "Contracts")" class="btn futuristic-btn">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center mt-4">
+            <p class="lead animated-text">For support and more information, please contact the IT department or refer to the internal documentation.</p>
+        </div>
+    </div>
+    <div class="mouse-tracker"></div>
+
+    <script>
+        document.addEventListener('mousemove', (e) => {
+            const tracker = document.querySelector('.mouse-tracker');
+            tracker.style.left = `${e.clientX}px`;
+            tracker.style.top = `${e.clientY}px`;
+        });
+
+        document.addEventListener('mouseover', () => {
+            document.querySelector('.mouse-tracker').classList.add('hover');
+        });
+
+        document.addEventListener('mouseout', () => {
+            document.querySelector('.mouse-tracker').classList.remove('hover');
+        });
+    </script>
+</body>

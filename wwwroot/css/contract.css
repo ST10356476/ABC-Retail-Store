@@ -1,0 +1,88 @@
+﻿/* General Body Styling */
+body {
+    background: linear-gradient(135deg, #0d1117, #161b22);
+    color: #c9d1d9;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Page Title */
+.page-title {
+    text-align: center;
+    font-size: 2rem;
+    color: #58a6ff;
+    margin-bottom: 20px;
+}
+
+/* Information Text */
+.info-text {
+    font-size: 1.1rem;
+    color: #8b949e;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Upload Form Styling */
+.upload-form .form-group {
+    margin-bottom: 20px;
+}
+
+.upload-form label {
+    font-weight: 600;
+    color: #58a6ff;
+}
+
+.upload-form .form-control,
+.upload-form .form-control-file {
+    background-color: transparent;
+    color: #c9d1d9;
+    border: 2px solid #58a6ff;
+    padding: 10px;
+    transition: border-color 0.3s ease-in-out;
+}
+
+    .upload-form .form-control:focus,
+    .upload-form .form-control-file:focus {
+        border-color: #79c0ff;
+        outline: none;
+        box-shadow: 0 0 10px #58a6ff;
+    }
+
+/* Submit Button */
+.submit-btn {
+    background-color: #58a6ff;
+    color: #0d1117;
+    padding: 10px 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+    .submit-btn:hover {
+        background-color: #79c0ff;
+    }
+
+/* Note Section */
+.note {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    color: #8b949e;
+}
+
+/* Back Link */
+.back-link {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1rem;
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+    .back-link:hover {
+        color: #79c0ff;
+        text-decoration: underline;
+    }

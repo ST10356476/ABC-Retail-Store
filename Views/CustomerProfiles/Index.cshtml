@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ABC_Retail.Models.CustomerProfile>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+</head>
+<body>
+    <h1 class="glowing-text">Customer Profiles</h1>
+
+    <p>
+        <a asp-action="Create" class="btn glowing-btn">Create New</a>
+    </p>
+
+    <div class="table-container">
+        <table class="table glowing-table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().PartitionKey)</th>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().RowKey)</th>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Name)</th>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Email)</th>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Address)</th>
+                    <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Timestamp)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.PartitionKey</td>
+                        <td>@item.RowKey</td>
+                        <td>@item.Name</td>
+                        <td>@item.Email</td>
+                        <td>@item.Address</td>
+                        <td>@item.Timestamp</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.RowKey }, new { @class = "btn glowing-btn" }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.RowKey }, new { @class = "btn glowing-btn" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
